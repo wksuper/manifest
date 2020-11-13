@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <manifest>
-    <remote name="wksuper" fetch="https://github.com/wksuper"/>
+    <remote name="wksuper" fetch="ssh://git@github.com/wksuper"/>
     <remote name="tinyalsa" fetch="https://github.com/tinyalsa"/>
     <project remote="wksuper" name="klogging" revision="master" path="klogging"/>
     <project remote="wksuper" name="etinyalsa" revision="master" path="etinyalsa"/>
