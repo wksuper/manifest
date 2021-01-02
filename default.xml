@@ -10,4 +10,7 @@
     <project remote="wksuper" name="pcm2wav" revision="master" path="pcm2wav"/>
     <project remote="wksuper" name="dsd2pcm" revision="master" path="dsd2pcm"/>
     <project remote="wksuper" name="bin2txt" revision="master" path="bin2txt"/>
+    <project remote="wksuper" name="32to24" revision="master" path="32to24"/>
+    <project remote="wksuper" name="writings" revision="master" path="writings"/>
+    <project remote="wksuper" name="utility_test_scripts" revision="master" path="utility_test_scripts"/>
 </manifest>
