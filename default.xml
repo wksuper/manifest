@@ -6,7 +6,6 @@
     <project remote="wksuper" name="etinyalsa" revision="master" path="etinyalsa"/>
     <project remote="wksuper" name="kmerge" revision="master" path="kmerge"/>
     <project remote="wksuper" name="misc" revision="master" path="misc"/>
-    <project remote="wksuper" name="combine" revision="master" path="combine"/>
     <project remote="wksuper" name="pcm2wav" revision="master" path="pcm2wav"/>
     <project remote="wksuper" name="dsd2pcm" revision="master" path="dsd2pcm"/>
     <project remote="wksuper" name="bin2txt" revision="master" path="bin2txt"/>
