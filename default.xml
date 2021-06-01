@@ -11,5 +11,4 @@
     <project remote="wksuper" name="bin2txt" revision="master" path="bin2txt"/>
     <project remote="wksuper" name="32to24" revision="master" path="32to24"/>
     <project remote="wksuper" name="writings" revision="master" path="writings"/>
-    <project remote="wksuper" name="utilities" revision="master" path="utilities"/>
 </manifest>
